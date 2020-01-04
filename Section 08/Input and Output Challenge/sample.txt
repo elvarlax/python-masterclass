@@ -1,0 +1,178 @@
+'Twas brillig, and the slithy toves
+Did gyre and gimble in the wabe;
+All mimsy were the borogoves,
+And the mome raths outgrabe.
+
+"Beware the Jabberwock, my son!
+The jaws that bite, the claws that catch!
+Beware the Jubjub bird, and shun
+The frumious Bandersnatch!"
+
+He took his vorpal sword in hand:
+Long time the manxome foe he sought,
+So rested he by the Tumtum tree,
+And stood a while in thought.
+
+And, as in uffish thought he stood,
+The Jabberwock, with eyes of flame,
+Came whiffling through the tulgey wood,
+And burbled as it came!
+
+One two! One two! And through and through
+The vorpal blade went snicker-snack!
+He left it dead, and with its head
+He went galumphing back.
+
+"And hast thou slain the Jabberwock?
+Come to my arms, my beamish boy!"
+"Oh frabjous day! Callooh! Callay!"
+He chortled in his joy.
+
+'Twas brillig, and the slithy toves
+Did gyre and gimble in the wabe:
+All mimsy were the borogoves,
+And the mome raths outgrabe.
+
+ 1 times 2 is 2
+ 2 times 2 is 4
+ 3 times 2 is 6
+ 4 times 2 is 8
+ 5 times 2 is 10
+ 6 times 2 is 12
+ 7 times 2 is 14
+ 8 times 2 is 16
+ 9 times 2 is 18
+10 times 2 is 20
+11 times 2 is 22
+12 times 2 is 24
+--------------------
+ 1 times 3 is 3
+ 2 times 3 is 6
+ 3 times 3 is 9
+ 4 times 3 is 12
+ 5 times 3 is 15
+ 6 times 3 is 18
+ 7 times 3 is 21
+ 8 times 3 is 24
+ 9 times 3 is 27
+10 times 3 is 30
+11 times 3 is 33
+12 times 3 is 36
+--------------------
+ 1 times 4 is 4
+ 2 times 4 is 8
+ 3 times 4 is 12
+ 4 times 4 is 16
+ 5 times 4 is 20
+ 6 times 4 is 24
+ 7 times 4 is 28
+ 8 times 4 is 32
+ 9 times 4 is 36
+10 times 4 is 40
+11 times 4 is 44
+12 times 4 is 48
+--------------------
+ 1 times 5 is 5
+ 2 times 5 is 10
+ 3 times 5 is 15
+ 4 times 5 is 20
+ 5 times 5 is 25
+ 6 times 5 is 30
+ 7 times 5 is 35
+ 8 times 5 is 40
+ 9 times 5 is 45
+10 times 5 is 50
+11 times 5 is 55
+12 times 5 is 60
+--------------------
+ 1 times 6 is 6
+ 2 times 6 is 12
+ 3 times 6 is 18
+ 4 times 6 is 24
+ 5 times 6 is 30
+ 6 times 6 is 36
+ 7 times 6 is 42
+ 8 times 6 is 48
+ 9 times 6 is 54
+10 times 6 is 60
+11 times 6 is 66
+12 times 6 is 72
+--------------------
+ 1 times 7 is 7
+ 2 times 7 is 14
+ 3 times 7 is 21
+ 4 times 7 is 28
+ 5 times 7 is 35
+ 6 times 7 is 42
+ 7 times 7 is 49
+ 8 times 7 is 56
+ 9 times 7 is 63
+10 times 7 is 70
+11 times 7 is 77
+12 times 7 is 84
+--------------------
+ 1 times 8 is 8
+ 2 times 8 is 16
+ 3 times 8 is 24
+ 4 times 8 is 32
+ 5 times 8 is 40
+ 6 times 8 is 48
+ 7 times 8 is 56
+ 8 times 8 is 64
+ 9 times 8 is 72
+10 times 8 is 80
+11 times 8 is 88
+12 times 8 is 96
+--------------------
+ 1 times 9 is 9
+ 2 times 9 is 18
+ 3 times 9 is 27
+ 4 times 9 is 36
+ 5 times 9 is 45
+ 6 times 9 is 54
+ 7 times 9 is 63
+ 8 times 9 is 72
+ 9 times 9 is 81
+10 times 9 is 90
+11 times 9 is 99
+12 times 9 is 108
+--------------------
+ 1 times 10 is 10
+ 2 times 10 is 20
+ 3 times 10 is 30
+ 4 times 10 is 40
+ 5 times 10 is 50
+ 6 times 10 is 60
+ 7 times 10 is 70
+ 8 times 10 is 80
+ 9 times 10 is 90
+10 times 10 is 100
+11 times 10 is 110
+12 times 10 is 120
+--------------------
+ 1 times 11 is 11
+ 2 times 11 is 22
+ 3 times 11 is 33
+ 4 times 11 is 44
+ 5 times 11 is 55
+ 6 times 11 is 66
+ 7 times 11 is 77
+ 8 times 11 is 88
+ 9 times 11 is 99
+10 times 11 is 110
+11 times 11 is 121
+12 times 11 is 132
+--------------------
+ 1 times 12 is 12
+ 2 times 12 is 24
+ 3 times 12 is 36
+ 4 times 12 is 48
+ 5 times 12 is 60
+ 6 times 12 is 72
+ 7 times 12 is 84
+ 8 times 12 is 96
+ 9 times 12 is 108
+10 times 12 is 120
+11 times 12 is 132
+12 times 12 is 144
+--------------------
