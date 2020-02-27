@@ -14,7 +14,7 @@ All coursework for the Learn Python Programming Masterclass by Tim Buchalka and 
 - [x] Section 06 - The Binary number system explained
 - [x] Section 07 - Python Dictionaries and Sets
 - [x] Section 08 - Input and Output (I/O) in Python
-- [ ] Section 09 - Modules and Functions in Python
+- [x] Section 09 - Modules and Functions in Python
 - [ ] Section 10 - Object Oriented Pythons
 - [ ] Section 11 - Using Databases in Python
 - [ ] Section 12 - Generators, Comprehensions and Lambda Expressions
