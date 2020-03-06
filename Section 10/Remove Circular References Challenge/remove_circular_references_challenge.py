@@ -4,8 +4,6 @@ Modify the program so that the class structure matches the simplified diagram:
 Artist objects can hold references to Album objects, and Album objects can hold references to Song objects
 but there must be no circular references.
 """
-
-
 class Song:
     """Class to represent a song
 
