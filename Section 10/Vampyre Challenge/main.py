@@ -1,5 +1,5 @@
 """
-Section 10 Challenge - Vampyre Challenge
+Section 10 Challenge - Vampyre
 Create a new Vampyre class that's a subclass of Enemy.
 
 Vampyres have 3 lives, and take 12 hitpoints of damage.
