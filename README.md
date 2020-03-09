@@ -15,7 +15,7 @@ All coursework for the Learn Python Programming Masterclass by Tim Buchalka and 
 - [x] Section 07 - Python Dictionaries and Sets
 - [x] Section 08 - Input and Output (I/O) in Python
 - [x] Section 09 - Modules and Functions in Python
-- [ ] Section 10 - Object Oriented Python
+- [x] Section 10 - Object Oriented Python
 - [ ] Section 11 - Using Databases in Python
 - [ ] Section 12 - Generators, Comprehensions and Lambda Expressions
 - [ ] Section 13 - Packages

@@ -1,5 +1,5 @@
 """
-Section 10 Challenge - Game Challenge
+Section 10 Challenge - Game
 Modify the Player class so that the players' scores are increased by one thousand
 every time their level increases by one.
 So if they jump up two levels, they'll get a bonus of two thousand added to their score.
