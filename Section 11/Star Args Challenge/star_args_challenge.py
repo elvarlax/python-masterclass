@@ -12,6 +12,11 @@ print(message_tuple)
 number_tuple = build_tuple(1, 2, 3, 4, 5, 6)
 print(type(number_tuple))
 print(number_tuple)
+
+<class 'tuple'>
+('hello', 'planet', 'earth', 'take', 'me', 'to', 'your', 'leader')
+<class 'tuple'>
+(1, 2, 3, 4, 5, 6)
 """
 
 
