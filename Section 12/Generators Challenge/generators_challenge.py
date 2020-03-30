@@ -1,5 +1,5 @@
 """
-Section 11 Challenge - Generators
+Section 12 Challenge - Generators
 Create a generator to return an infinite sequence of odd numbers, starting at 1.
 
 Print the first 100 numbers, to check that the generator's working correctly.
