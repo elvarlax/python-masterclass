@@ -1,5 +1,5 @@
 """
-Section 12 Challenge - List Comprehensions Challenge 2
+Section 12 Challenge - List Comprehensions 2
 In case it's not obvious, a list comprehension produces a list, but
 it doesn't have to be given a list to iterate over.
 
