@@ -1,5 +1,5 @@
 """
-Section 12 Challenge - Nested Comprehensions 1
+Section 12 Challenge - Nested Comprehensions
 In an early video, we used a for loop to print the times tables, for values from 1 to 10.
 That was nested loop, which appears below.
 
