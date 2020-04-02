@@ -4,6 +4,8 @@ All coursework for the Learn Python Programming Masterclass by Tim Buchalka and 
 [The Course at Udemy](https://www.udemy.com/course/python-the-complete-python-developer-course/)  
 [The Learn Programming Academy](https://learnprogramming.academy/)
 
+![Certificate](certificate.jpg)
+
 ## Curriculum
 
 - [x] Section 01 - Course Introduction
@@ -17,5 +19,5 @@ All coursework for the Learn Python Programming Masterclass by Tim Buchalka and 
 - [x] Section 09 - Modules and Functions in Python
 - [x] Section 10 - Object Oriented Python
 - [x] Section 11 - Using Databases in Python
-- [ ] Section 12 - Generators, Comprehensions and Lambda Expressions
-- [ ] Section 13 - Packages
+- [x] Section 12 - Generators, Comprehensions and Lambda Expressions
+- [x] Section 13 - Packages
