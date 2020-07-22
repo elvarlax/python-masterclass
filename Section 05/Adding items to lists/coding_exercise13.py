@@ -1,3 +1,13 @@
+"""
+Coding Exercise 13 - Adding items to lists
+We have some data that contains a mixture of flowers and shrubs, in a list.
+
+Our customer would like two separate lists.
+One, called flowers, will contain only flowers, and the other,
+not surprisingly called shrubs, must contain only shrubs.
+
+Write code to populate the two lists with the appropriate plants from data.
+"""
 data = [
     "Andromeda - Shrub",
     "Bellflower - Flower",
