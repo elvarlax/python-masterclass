@@ -1,5 +1,5 @@
 """
-Coding Exercise 14 - Nested indexing
+Coding Exercise 15 - Nested indexing
 Use nested indexing to print the following items from our albums structure.
 
 - The title of the song "The Way I Choose" from the "Bad Company" album.
