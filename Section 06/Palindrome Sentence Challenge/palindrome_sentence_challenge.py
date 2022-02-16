@@ -18,8 +18,27 @@ be very similar to what we did for the is palindrome function.
 Some examples of palindrome sentences are:
 - Was it a car, or a cat, I saw?
 - Do geese see god?
-- Desnes not far, Raf ton sensed.
+- Desnes not far, Raf ton sensed
 
 Googling will find more examples.
 Remember to also test with sentences that aren't palindromes.
 """
+
+
+def is_palindrome(string):
+    return string[::-1].casefold() == string.casefold()
+
+
+def palindrome_sentence(sentence):
+    string = ""
+    for char in sentence:
+        if char.isalnum():
+            string += char
+    return is_palindrome(string)
+
+
+word = input("Please enter a word to check: ")
+if is_palindrome(word):
+    print(f"{word} is a palindrome")
+else:
+    print(f"{word} is not a palindrome")
