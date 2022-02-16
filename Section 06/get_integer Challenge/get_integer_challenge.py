@@ -11,13 +11,14 @@ def get_integer(prompt):
         temp = input(prompt)
         if temp.isnumeric():
             return int(temp)
+        else:
+            print("{0} is not a valid number".format(temp))
 
 
 highest = 1000
 answer = random.randint(1, highest)
-print(answer)
 guess = 0
-print(f"Please guess number between 1 and {highest}")
+print("Please guess number between 1 and {}: ".format(highest))
 
 while guess != answer:
     guess = get_integer(": ")
