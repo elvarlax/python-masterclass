@@ -9,7 +9,7 @@ Also test that it correctly identifies words that aren't palindromes.
 
 
 def is_palindrome(string):
-    return string[::-1] == string
+    return string[::-1].casefold() == string.casefold()
 
 
 word = input("Please enter a word to check: ")
