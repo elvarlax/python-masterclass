@@ -5,8 +5,7 @@ You'll need to provide that argument in all the lines that call the function.
 """
 
 
-def banner_text(text):
-    screen_width = 50
+def banner_text(text, screen_width=80):
     if len(text) > screen_width - 4:
         raise ValueError(f"String {text} is larger than specified width {screen_width}")
 
