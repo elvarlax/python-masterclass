@@ -1,5 +1,5 @@
 """
-Coding Exercise 8 - Extracting capitals
+Coding Exercise 7 - Extracting capitals
 Write a program to print out the capital letters in the string
 
 "Alright, but apart from the Sanitation, the Medicine, Education,
