@@ -28,4 +28,5 @@ basket = {'garlic crusher',
           'bush hat',
           }
 
-# Add your code here.
+suggestions = favourites.difference(basket)
+print(suggestions)
