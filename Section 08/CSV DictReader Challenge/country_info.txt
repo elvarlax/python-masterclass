@@ -1,0 +1,248 @@
+Country|Capital|CC|CC3|IAC|TimeZone|Currency
+Afghanistan|Kabul|AF|AFG|+93|UTC+04:30|Afghan afghani
+Aland Islands|Mariehamn|AX|ALA|+358|UTC+02:00|Euro
+Albania|Tirana|AL|ALB|+355|UTC+01:00|Albanian lek
+Algeria|Algiers|DZ|DZA|+213|UTC|Algerian dinar
+American Samoa|Pago Pago|AS|ASM|+1 684|UTC-11:00|
+Andorra|Andorra la Vella|AD|AND|+376|UTC+01:00|Euro
+Angola|Luanda|AO|AGO|+244|UTC+01:00|Angolan kwanza
+Anguilla|The Valley|AI|AIA|+1 264|UTC-04:00|East Caribbean dollar
+Antarctica||AQ|ATA|||
+Antigua and Barbuda|St. John's|AG|ATG|+1 268|UTC-04:00|East Caribbean dollar
+Argentina|Buenos Aires|AR|ARG|+54|UTC-03:00|Argentine peso
+Armenia|Yerevan|AM|ARM|+374|UTC+04:00|Armenian dram
+Aruba|Oranjestad|AW|ABW|+297|UTC-04:00|Aruban florin
+Australia|Canberra|AU|AUS|+61|UTC+07:00 - UTC+10:00|Australian dollar
+Austria|Vienna|AT|AUT|+43|UTC+01:00|Euro
+Azerbaijan|Baku|AZ|AZE|+994|UTC+04:00|Azerbaijani manat
+Bahamas|Nassau|BS|BHS|+1 242|UTC-05:00|Bahamian dollar
+Bahrain|Manama|BH|BHR|+973|UTC+03:00|Bahraini dinar
+Bangladesh|Dhaka|BD|BGD|+880|UTC+06:00|Bangladeshi taka
+Barbados|Bridgetown|BB|BRB|+1 246|UTC-04:00|Barbadian dollar
+Belarus|Minsk|BY|BLR|+375|UTC+03:00|Belarusian ruble
+Belgium|Brussels|BE|BEL|+32|UTC+01:00|Euro
+Belize|Belmopan|BZ|BLZ|+501|UTC-06:00|Belize dollar
+Benin|Porto-Novo|BJ|BEN|+229|UTC+01:00|West African CFA franc
+Bermuda|Hamilton|BM|BMU|+1 441|UTC-04:00|Bermudian dollar
+Bhutan|Thimphu|BT|BTN|+975|UTC+05:30|Bhutanese ngultrum
+Bolivia|Sucre|BO|BOL|+591|UTC-04:00|Bolivian boliviano
+Bonaire|Kralendijk|BQ|BES|+599|UTC-04:00|United States dollar
+Bosnia and Herzegovina|Sarajevo|BA|BIH|+387|UTC+01:00|Bosnia and Herzegovina convertible mark
+Botswana|Gaborone|BW|BWA|+267|UTC+02:00|Botswana pula
+Bouvet Island||BV|BVT||UTC+01:00|
+Brazil|Brasília|BR|BRA|+55|UTC-05:00 - UTC-03:00|Brazilian real
+British Indian Ocean Territory|Diego Garcia|IO|IOT|+246|UTC+06|United States dollar
+Brunei|Bandar Seri Begawan|BN|BRN|+673|UTC+08:00|Brunei dollar
+Bulgaria|Sofia|BG|BGR|+359|UTC+02:00|Bulgarian lev
+Burkina Faso|Ouagadougou|BF|BFA|+226|UTC|West African CFA franc
+Burundi|Bujumbura|BI|BDI|+257|UTC+02:00|Burundian franc
+Cambodia|Phnom Penh|KH|KHM|+855|UTC+07:00|Cambodian riel
+Cameroon|Yaoundé|CM|CMR|+237|UTC+01:00|Central African CFA franc
+Canada|Ottawa|CA|CAN|+1|UTC-08:00 - UTC-04:00|Canadian dollar
+Cape Verde|Praia|CV|CPV|+238|UTC-01:00|Cape Verdean escudo
+Cayman Islands|George Town|KY|CYM|+1 345|UTC-05:00|Cayman Islands dollar
+Central African Republic|Bangui|CF|CAF|+236|UTC+01:00|Central African CFA franc
+Chad|N'Djamena|TD|TCD|+235|UTC+01:00|Central African CFA franc
+Chile|Santiago|CL|CHL|+56|UTC-04:00|Chilean peso
+China|Beijing|CN|CHN|+86|UTC+08:00|Chinese yuan
+Christmas Island|Flying Fish Cove|CX|CXR|+61 8 9164|UTC+07|Australian dollar
+Cocos (Keeling) Islands|West Island|CC|CCK|+61 8 9162|UTC+06:30|Australian dollar
+Colombia|Bogotá|CO|COL|+57|UTC-05:00|Colombian peso
+Comoros|Moroni|KM|COM|+269|UTC+03:00|Comorian franc
+Congo, Republic of the|Brazzaville|CG|COG|+242|UTC+01:00|Central African CFA franc
+Congo, Democratic Republic of the|Kinshasa|CD|COD|+243|UTC+01:00 - UTC+02:00|Congolese franc
+Cook Islands|Avarua|CK|COK|+682|UTC-10:00|New Zealand dollar
+Costa Rica|San José|CR|CRI|+506|UTC-06:00|Costa Rican colón
+Côte d'Ivoire|Yamoussoukro|CI|CIV|+225|UTC|West African CFA franc
+Croatia|Zagreb|HR|HRV|+385|UTC+01:00|Croatian kuna
+Cuba|Havana|CU|CUB|+53|UTC-03:00|Cuban convertible peso
+Curacao|Willemstad|CW|CUW|+599 9|UTC-04:00|Netherlands Antillean guilder
+Cyprus|Nicosia|CY|CYP|+357|UTC+02:00|Euro
+Czech Republic|Prague|CZ|CZE|+420|UTC+01:00|Czech koruna
+Denmark|Copenhagen|DK|DNK|+45|UTC+01:00|Danish krone
+Djibouti|Djibouti|DJ|DJI|+253|UTC+03:00|Djiboutian franc
+Dominica|Roseau|DM|DMA|+1 767|UTC-04:00|East Caribbean dollar
+Dominican Republic|Santo Domingo|DO|DOM|+1 809/829/849|UTC-04:00|Dominican peso
+East Timor|Dili|TL|TLS|+670|UTC+09|United States dollar
+Ecuador|Quito|EC|ECU|+593|UTC-05:00|United States dollar
+Egypt|Cairo|EG|EGY|+20|UTC+02:00|Egyptian pound
+El Salvador|San Salvador|SV|SLV|+503|UTC-06:00|Salvadoran colón
+Equatorial Guinea|Malabo|GQ|GNQ|+240|UTC+01:00|Central African CFA franc
+Eritrea|Asmara|ER|ERI|+291|UTC+03:00|Eritrean nakfa
+Estonia|Tallinn|EE|EST|+372|UTC+03:00|Euro
+Ethiopia|Addis Ababa|ET|ETH|+251|UTC+03:00|Ethiopian birr
+Falkland Islands (Malvinas)|Stanley|FK|FLK|+500|UTC-04:00|Falkland Islands pound
+Faroe Islands|Tórshavn|FO|FRO|+298|UTC|Danish krone
+Fiji|Suva|FJ|FJI|+679|UTC+12:00|Fijian dollar
+Finland|Helsinki|FI|FIN|+358|UTC+02:00|Euro
+France|Paris|FR|FRA|+33|UTC+01:00|Euro
+French Guiana|Cayenne|GF|GUF|+594|UTC-01:00|Euro
+French Polynesia|Papeete|PF|PYF|+689|UTC-10:00|CFP franc
+French Southern Territories|Port-aux-Français|TF|ATF||UTC+05:00|Euro
+Gabon|Libreville|GA|GAB|+241|UTC+01:00|Central African CFA franc
+Gambia|Banjul|GM|GMB|+220|UTC|Gambian dalasi
+Georgia|Tbilisi|GE|GEO|+995|UTC+04:00|Georgian lari
+Germany|Berlin|DE|DEU|+49|UTC+01:00|Euro
+Ghana|Accra|GH|GHA|+233|UTC|Ghanaian cedi
+Gibraltar|Gibraltar|GI|GIB|+350|UTC+01:00|Gibraltar pound
+Greece|Athens|GR|GRC|+30|UTC+02:00|Euro
+Greenland|Nuuk|GL|GRL|+299|UTC-03:00|Danish krone
+Grenada|St. George's|GD|GRD|+1 473|UTC-04:00|East Caribbean dollar
+Guadeloupe|Basse-Terre|GP|GLP|+590|UTC-04:00|Euro
+Guam|Hagåtña|GU|GUM|+1 671|UTC+10:00|United States dollar
+Guatemala|Guatemala City|GT|GTM|+502|UTC-06:00|Guatemalan quetzal
+Guernsey|St. Peter Port|GG|GGY|+44 1481|UTC|British pound
+Guinea|Conakry|GN|GIN|+224|UTC|Guinean franc
+Guinea-Bissau|Bissau|GW|GNB|+245|UTC|West African CFA franc
+Guyana|Georgetown|GY|GUY|+592|UTC-03:00|Guyanese dollar
+Haiti|Port-au-Prince|HT|HTI|+509|UTC-05:00|Haitian gourde
+Heard Island and McDonald Islands||HM|HMD||UTC+05|
+Honduras|Tegucigalpa|HN|HND|+504|UTC-06:00|Honduran lempira
+Hong Kong||HK|HKG|+852|UTC+08:00|Hong Kong dollar
+Hungary|Budapest|HU|HUN|+36|UTC+01:00|Hungarian forint
+Iceland|Reykjavík|IS|ISL|+354|UTC|Icelandic króna
+India|New Delhi|IN|IND|+91|UTC+05:30|Indian rupee
+Indonesia|Jakarta|ID|IDN|+62|UTC+07:00 - UTC+09:00|Indonesian rupiah
+Iran|Tehran|IR|IRN|+98|UTC+03:30|Iranian rial
+Iraq|Baghdad|IQ|IRQ|+964|UTC+03:00|Iraqi dinar
+Ireland|Dublin|IE|IRL|+353|UTC|Euro
+Isle of Man|Douglas|IM|IMN|+44 1624|UTC|British pound
+Israel|Jerusalem|IL|ISR|+972|UTC+02:00|Israeli new shekel
+Italy|Rome|IT|ITA|+39|UTC+01:00|Euro
+Jamaica|Kingston|JM|JAM|+1 876|UTC-05:00|Jamaican dollar
+Japan|Tokyo|JP|JPN|+81|UTC+09:00|Japanese yen
+Jersey|St. Helier|JE|JEY|+44 1534|UTC|British pound
+Jordan|Amman|JO|JOR|+962|UTC+02:00|Jordanian dinar
+Kazakhstan|Astana|KZ|KAZ|+7 6xx/7xx|UTC+06:00|Kazakhstani tenge
+Kenya|Nairobi|KE|KEN|+254|UTC+03:00|Kenyan shilling
+Kiribati|Tarawa|KI|KIR|+686|UTC+12:00|Australian dollar
+Kuwait|Kuwait City|KW|KWT|+965|UTC+03:00|Kuwaiti dinar
+Kyrgyzstan|Bishkek|KG|KGZ|+996|UTC+06:00|Kyrgyzstani som
+Laos|Vientiane|LA|LAO|+856|UTC+07:00|Lao kip
+Latvia|Riga|LV|LVA|+371|UTC+03:00|Latvian lats
+Lebanon|Beirut|LB|LBN|+961|UTC+02:00|Lebanese pound
+Lesotho|Maseru|LS|LSO|+266|UTC+02:00|Lesotho loti
+Liberia|Monrovia|LR|LBR|+231|UTC|Liberian dollar
+Libya|Tripoli|LY|LBY|+218|UTC+02:00|Libyan dinar
+Liechtenstein|Vaduz|LI|LIE|+423|UTC+01:00|Swiss franc
+Lithuania|Vilnius|LT|LTU|+370|UTC+02:00|Lithuanian litas
+Luxembourg|Luxembourg|LU|LUX|+352|UTC+01:00|Euro
+Macau||MO|MAC|+853|UTC+08:00|Macanese pataca
+Macedonia|Skopje|MK|MKD|+389|UTC+01:00|Macedonian denar
+Madagascar|Antananarivo|MG|MDG|+261|UTC+03:00|Malagasy ariary
+Malawi|Lilongwe|MW|MWI|+265|UTC+02:00|Malawian kwacha
+Malaysia|Kuala Lumpur|MY|MYS|+60|UTC+08:00|Malaysian ringgit
+Maldives|Malé|MV|MDV|+960|UTC+05:00|Maldivian rufiyaa
+Mali|Bamako|ML|MLI|+223|UTC|West African CFA franc
+Malta|Valletta|MT|MLT|+356|UTC+01:00|Euro
+Marshall Islands|Majuro|MH|MHL|+692|UTC+10:00|United States dollar
+Martinique|Fort-de-France|MQ|MTQ|+596|UTC-04:00|Euro
+Mauritania|Nouakchott|MR|MRT|+222|UTC|Mauritanian ouguiya
+Mauritius|Port Louis|MU|MUS|+230|UTC+04:00|Mauritian rupee
+Mayotte|Mamoudzou|YT|MYT|+262 269/639|UTC+03:00|Euro
+Mexico|Mexico City|MX|MEX|+52|UTC-08:00 - UTC-06:00|Mexican peso
+Micronesia|Palikir|FM|FSM|+691|UTC+10:00|Micronesian dollar
+Moldova|Chisinau|MD|MDA|+373|UTC+03:00|Moldovan leu
+Monaco|Monaco|MC|MCO|+377|UTC+01:00|Euro
+Mongolia|Ulaanbaatar|MN|MNG|+976|UTC+08:00|Mongolian tögrög
+Montenegro|Podgorica|ME|MNE|+382|UTC+01|Euro
+Montserrat|Plymouth|MS|MSR|+1 664|UTC-04:00|East Caribbean dollar
+Morocco|Rabat|MA|MAR|+212|UTC|Moroccan dirham
+Mozambique|Maputo|MZ|MOZ|+258|UTC+02:00|Mozambican metical
+Myanmar (Burma)|Naypyidaw|MM|MMR|+95|UTC+06:30|Myanma kyat
+Namibia|Windhoek|NA|NAM|+264|UTC+02:00|Namibian dollar
+Nauru|Yaren|NR|NRU|+674|UTC+12:00|Australian dollar
+Nepal|Kathmandu|NP|NPL|+977|UTC+05:30|Nepalese rupee
+Netherlands|Amsterdam|NL|NLD|+31|UTC+01:00|Euro
+New Caledonia|Nouméa|NC|NCL|+687|UTC+11:00|CFP franc
+New Zealand|Wellington|NZ|NZL|+64|UTC+12:00|New Zealand dollar
+Nicaragua|Managua|NI|NIC|+505|UTC-06:00|Nicaraguan córdoba
+Niger|Niamey|NE|NER|+227|UTC+01:00|West African CFA franc
+Nigeria|Abuja|NG|NGA|+234|UTC+01:00|Nigerian naira
+Niue|Alofi|NU|NIU|+683|UTC-11:00|New Zealand dollar
+Norfolk Island|Kingston|NF|NFK|+672 3|UTC+11:30|Australian dollar
+North Korea|Pyongyang|KP|PRK|+850|UTC+09:00|North Korean won
+Northern Mariana Islands|Saipan|MP|MNP|+1 670|UTC+10:00|United States dollar
+Norway|Oslo|NO|NOR|+47|UTC+01:00|Norwegian krone
+Oman|Muscat|OM|OMN|+968|UTC+04:00|Omani rial
+Pakistan|Islamabad|PK|PAK|+92|UTC+05:00|Pakistani rupee
+Palau|Ngerulmud|PW|PLW|+680|UTC+09:00|Palauan dollar
+Panama|Panama City|PA|PAN|+507|UTC-05:00|Panamanian balboa
+Papua New Guinea|Port Moresby|PG|PNG|+675|UTC+10:00|Papua New Guinean kina
+Paraguay|Asunción|PY|PRY|+595|UTC-04:00|Paraguayan guaraní
+Peru|Lima|PE|PER|+51|UTC-05:00|Peruvian nuevo sol
+Philippines|Manila|PH|PHL|+63|UTC+08:00|Philippine peso
+Pitcairn|Adamstown|PN|PCN|+872|UTC-08|New Zealand dollar
+Poland|Warsaw|PL|POL|+48|UTC+01:00|Polish złoty
+Portugal|Lisbon|PT|PRT|+351|UTC+01:00|Euro
+Puerto Rico|San Juan|PR|PRI|+1 787/939|UTC-04:00|United States dollar
+Qatar|Doha|QA|QAT|+974|UTC+03:00|Qatari riyal
+Reunion||RE|REU|+262|UTC+04:00|Euro
+Romania|Bucharest|RO|ROU|+40|UTC+02:00|Romanian leu
+Russia|Moscow|RU|RUS|+7|UTC+03:00|Russian ruble
+Rwanda|Kigali|RW|RWA|+250|UTC+02:00|Rwandan franc
+Saint Barthelemy|Gustavia|BL|BLM|+590|UTC-04|Euro
+Saint Helena|Jamestown|SH|SHN|+290|UTC|Saint Helena pound
+Saint Kitts and Nevis|Basseterre|KN|KNA|+1 869|UTC-04:00|East Caribbean dollar
+Saint Lucia|Castries|LC|LCA|+1 758|UTC-04:00|East Caribbean dollar
+Saint Martin|Marigot|MF|MAF|+590|UTC-04|Euro
+Saint Pierre and Miquelon|St. Pierre|PM|SPM|+508|UTC-03|Euro
+Saint Vincent and the Grenadines|Kingstown|VC|VCT|+1 784|UTC-04|East Caribbean dollar
+Samoa|Apia|WS|WSM|+685|UTC-11:00|Samoan tala
+San Marino|San Marino|SM|SMR|+378|UTC+01:00|Euro
+Sao Tome and Príncipe|São Tomé|ST|STP|+239|UTC|São Tomé and Príncipe dobra
+Saudi Arabia|Riyadh|SA|SAU|+966|UTC+03:00|Saudi riyal
+Senegal|Dakar|SN|SEN|+221|UTC|West African CFA franc
+Serbia|Belgrade|RS|SRB|+381|UTC+01:00|Serbian dinar
+Seychelles|Victoria|SC|SYC|+248|UTC+04:00|Seychellois rupee
+Sierra Leone|Freetown|SL|SLE|+232|UTC|Sierra Leonean leone
+Singapore|Singapore|SG|SGP|+65|UTC+08:00|Brunei dollar
+Sint Maarten|Philipsburg|SX|SXM|+599 5|UTC-04:00|Netherlands Antillean guilder
+Slovakia|Bratislava|SK|SVK|+421|UTC+01:00|Euro
+Slovenia|Ljubljana|SI|SVN|+386|UTC+01:00|Euro
+Solomon Islands|Honiara|SB|SLB|+677|UTC+11:00|Solomon Islands dollar
+Somalia|Mogadishu|SO|SOM|+252|UTC+03:00|Somali shilling
+South Africa|Pretoria|ZA|ZAF|+27|UTC+02:00|South African rand
+South Georgia and the South Sandwich Islands|Grytviken|GS|SGS||UTC-02|British pound
+South Korea|Seoul|KR|KOR|+82|UTC+09:00|South Korean won
+Spain|Madrid|ES|ESP|+34|UTC+01:00|Euro
+Sri Lanka|Sri Jayawardenapura Kotte|LK|LKA|+94|UTC+05:30|Sri Lankan rupee
+Sudan|Khartoum|SD|SDN|+249|UTC+02:00|Sudanese pound
+Suriname|Paramaribo|SR|SUR|+597|UTC-03:30|Surinamese dollar
+Svalbard and Jan Mayen||SJ|SJM|+47|UTC+01:00|Norwegian krone
+Swaziland|Mbabane|SZ|SWZ|+268|UTC+02:00|Swazi lilangeni
+Sweden|Stockholm|SE|SWE|+46|UTC+01:00|Swedish krona
+Switzerland|Bern|CH|CHE|+41|UTC+01:00|Swiss franc
+Syrian Arab Republic|Damascus|SY|SYR|+963|UTC+02:00|Syrian pound
+Taiwan|Taipei|TW|TWN|+886|UTC+08:00|New Taiwan dollar
+Tajikistan|Dushanbe|TJ|TJK|+992|UTC+06:00|Tajikistani somoni
+Tanzania|Dodoma|TZ|TZA|+255|UTC+03:00|Tanzanian shilling
+Thailand|Bangkok|TH|THA|+66|UTC+07:00|Thai baht
+Togo|Lomé|TG|TGO|+228|UTC|West African CFA franc
+Tokelau|Rotates annually|TK|TKL|+690|UTC-10|New Zealand dollar
+Tonga|Nuku|TO|TON|+676|UTC+13:00|Tongan paʻanga
+Trinidad and Tobago|Port of Spain|TT|TTO|+1 868|UTC-04:00|Trinidad and Tobago dollar
+Tunisia|Tunis|TN|TUN|+216|UTC+01:00|Tunisian dinar
+Turkey|Ankara|TR|TUR|+90|UTC+02:00|Turkish lira
+Turkmenistan|Ashgabat|TM|TKM|+993|UTC+05:00|Turkmenistani manat
+Turks and Caicos Islands|Cockburn Town|TC|TCA|+1 649|UTC-05:00|United States dollar
+Tuvalu|Funafuti|TV|TUV|+688|UTC+12:00|Australian dollar
+Uganda|Kampala|UG|UGA|+256|UTC+03:00|Ugandan shilling
+Ukraine|Kiev|UA|UKR|+380|UTC+03:00|Ukrainian hryvnia
+United Arab Emirates|Abu Dhabi|AE|ARE|+971|UTC+04:00|United Arab Emirates dirham
+United Kingdom|London|GB|GBR|+44|UTC|British pound
+United States|Washington D.C.|US|USA|+1|UTC-11:00 - UTC-05:00|United States dollar
+United States Minor Outlying Islands||UM|UMI|+1||United States dollar
+Uruguay|Montevideo|UY|URY|+598|UTC-03:00|Uruguayan peso
+Uzbekistan|Tashkent|UZ|UZB|+998|UTC+06:00|Uzbekistani som
+Vanuatu|Port Vila|VU|VUT|+678|UTC+11:00|Vanuatu vatu
+Vatican City|Vatican City|VA|VAT|+39 06 698|UTC+01|Euro
+Venezuela|Caracas|VE|VEN|+58|UTC-04:00|Venezuelan bolívar
+Vietnam|Hanoi|VN|VNM|+84|UTC+07:00|Vietnamese đồng
+Virgin Islands|Road Town|VG|VGB|+1 284|UTC-04|British Virgin Islands dollar
+Virgin Islands of the United States|Charlotte Amalie|VI|VIR|+1 340|UTC-04|United States dollar
+Wallis and Futuna|Mata-Utu|WF|WLF|+681|UTC+12:00|CFP franc
+Western Sahara|Laâyoune (El Aaiún)|EH|ESH|+212 5288/5289|UTC+01|Moroccan dirham
+Yemen|Sanaá|YE|YEM|+967|UTC+03:00|Yemeni rial
+Zambia|Lusaka|ZM|ZMB|+260|UTC+02:00|Zambian kwacha
+Zimbabwe| Harare|ZW|ZWE|+263|UTC+02:00|Botswana pula
